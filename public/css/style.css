@@ -6,6 +6,14 @@ body {
     background: url("../img/pattern.jpg") center center;
 }
 
+/*cover*/
+#cover {
+    height: 100%;
+    background: url(../img/trees.jpg) center;
+    background-size:contain;
+    color: white;
+}
+
 /*Font Faces*/
 @font-face{
     font-family: 'Cubano-Regular';
@@ -17,48 +25,31 @@ body {
     src: local('Nunito-Regular.ttf'), url('../fonts/Nunito-Regular.ttf') format('truetype');
 }
 
-/*cover*/
-#cover {
-    height: 100%;
-    background: url(../img/trees.jpg) center;
-    background-size: cover;
-    color: white;
-}
-
+/*Popular Quotes*/
 .wall-quote{
     position: absolute;
-    top: 1px;
-    right: 200px;
-    width: 400px;
-    height: 1000px;    
+    top: 0px;
+    right: 10%;
+    width: 20%;
+    height: 100%;
     background: rgba(23, 21, 21, 0.44);
-    padding-top: 200px;
+    padding-top: 10%;
     padding-left: 20px;
     padding-right: 20px;
     font-family: 'Cubano-Regular';
+    font-size: 1.5rem;
 }
 
 .wall-quote-details{
-    font-size: 2rem;
     color: white;
     text-align: left;
 }
 
 .wall-quote-author{
-    font-size: 2rem;
     color: darkgreen;
     text-align: right;
 }
 
-.moto {
-    font-family: 'Cubano-Regular';
-    font-size: 3rem;
-    margin-top: 100px;
-    margin-left: 200px;
-    text-align: left;
-}
-
-/*Buttons*/
 .btn-quote{
     position: relative;
     left: 80px;
@@ -78,18 +69,6 @@ body {
     transition: 0.5s;
 }
 
-
-.spinner{
-    position: absolute;
-    top: 200px;
-    left: 100px;
-    width: 578px;
-    height: 200px;
-    margin: 10px;
-    padding: 10px;
-}
-
-
 .fa-arrow-down{
     margin-left: 40rem;
     margin-top: 50px;
@@ -102,8 +81,6 @@ body {
     color: rgba(19,128,36, 0.54);
     transition: 0.5s;
 }
-
-
 
 
 /*SPANS*/

@@ -7,4 +7,18 @@
 5) Trivia [Fun facts, quiz, jokes, do you know.??]
 6) Time [Digital time from the current timezone]
 7) My Collection [my favorite videos, songs, blog posts, etc]
-8) 
+
+
+Running WallPaper/Theme feature 
+-------------------------------
+-> Periodically updates every 2 minute
+-> Has a small 'i' icon that explains where this is taken and a small hyperlink to that place
+-> Theme matches with the wall paper
+-> Can select next wallpaper/theme 
+
+
+Popular Quotes
+--------------
+-> Updates periodically
+-> Has a hyperlink to the author
+-> Can request next quote

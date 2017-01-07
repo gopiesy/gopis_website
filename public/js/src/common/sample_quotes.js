@@ -5,19 +5,19 @@ define(function (require) {
         "quote":
             [
                 {
-                    "detail": "If you want to shine like a sun, first burn like a sun",
+                    "detail": "If you want to shine like a sun, first burn like a sun.",
                     "name": "Abdul Kalam",
                     "image-url": "localhost",
                     "href": "http://wikipedia.com/kalam"
                 },
                 {
-                    "detail": "Two things are infinite: the universe and human stupidity; an I'm not sure about the universe",
+                    "detail": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
                     "name": "Albert Einstein",
                     "image-url": "localhost",
                     "href": "http://wikipedia.com/kalam"
                 },
                 {
-                    "detail": "Be the change that you wish to see in the world",
+                    "detail": "Be the change that you wish to see in the world.",
                     "name": "Mahatma Gandhi",
                     "image-url": "localhost",
                     "href": "http://wikipedia.com/kalam"
